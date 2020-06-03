@@ -5,6 +5,7 @@ histograms-of-projections method are also provided.
 
 If you find this work useful please cite,
 
+```
 @incollection{NIPS2019_9048,
 title = {Multiclass Learning from Contradictions},
 author = {Dhar, Sauptik and Cherkassky, Vladimir and Shah, Mohak},
@@ -15,6 +16,7 @@ year = {2019},
 publisher = {Curran Associates, Inc.},
 url = {http://papers.nips.cc/paper/9048-multiclass-learning-from-contradictions.pdf}
 }
+```
 
 
 Installation and Configuration
@@ -43,4 +45,4 @@ MUSVM is open-sourced under the Apache-2.0 license. See the `LICENSE <LICENSE>`_
 
 Contact
 -------
-Sauptik Dhar <sauptik.dhar@gmail.com>
+Sauptik Dhar <sauptik.dhar@lge.com>
