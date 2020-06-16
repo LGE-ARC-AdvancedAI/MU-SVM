@@ -2,6 +2,8 @@ function [univdata]=generateRA(trndata,weights,usize)
 %--------------------------------------------------------------------------
 % DESCRIPTION: Generate RA samples from the training data. If no weights
 % specified we use equiprobable.
+% Copyright (c) 2019 LG Electronics Inc.
+% SPDX-License-Identifier: Apache-2.0
 %--------------------------------------------------------------------------
 
 J= max(trndata.y);

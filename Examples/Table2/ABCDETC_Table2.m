@@ -26,6 +26,9 @@ function [RPred1OVA,RPredU1OVA,Remp1OVA,RempU1OVA,Finmodel1OVA,Finoutput1OVA,Fin
 %     RPred4OVA,RPredU4OVA,Remp4OVA,RempU4OVA,Finmodel4OVA,Finoutput4OVA,FinmodelU4OVA,FinoutputU4OVA,optparam4OVA,...
 %     RPred4OVO,RPredU4OVO,Remp4OVO,RempU4OVO,Finmodel4OVO,Finoutput4OVO,FinmodelU4OVO,FinoutputU4OVO,optparam4OVO,...
 %     RPred4,RPredU4,Remp4,RempU4,Finmodel4,Finoutput4,FinmodelU4,FinoutputU4,optparam4]=ABCDETC_Table2()
+
+% Copyright (c) 2019 LG Electronics Inc.
+% SPDX-License-Identifier: Apache-2.0
 %-------------------------------------------------------------------------- 
 
 

@@ -1,5 +1,6 @@
 function [S] = SpanMultiFastUSVM(KSV,aSV,Nsv1T,Nsv1U,Nsv2T,Nsv2U,J)
-
+% Copyright (c) 2019 LG Electronics Inc.
+% SPDX-License-Identifier: Apache-2.0
     
     KSV1 = KSV(1:(Nsv1T+Nsv1U),1:(Nsv1T+Nsv1U));
     SV1 = size(KSV1,1);

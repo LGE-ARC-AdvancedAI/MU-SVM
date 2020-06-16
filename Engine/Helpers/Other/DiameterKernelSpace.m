@@ -1,5 +1,6 @@
 function [D] = DiameterKernelSpace(K)
-
+% Copyright (c) 2019 LG Electronics Inc.
+% SPDX-License-Identifier: Apache-2.0
 H = K;
 H = H+1e-10*eye(size(H));   % For ill-conditioned problems
 H=(0.5)*(H+H');

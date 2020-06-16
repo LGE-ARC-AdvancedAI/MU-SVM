@@ -18,6 +18,8 @@ function [trndata,valdata,tstdata,univdata]=abcdetcdataMULTI(trid,ntrn,nval,ntst
 % 1:26 - All other lower case
 % 27:52 - All uppercase
 % 
+% Copyright (c) 2019 LG Electronics Inc.
+% SPDX-License-Identifier: Apache-2.0
 %--------------------------------------------------------------------------
 
 load abcddata;  % Please see the README.txt doc in this forlder to see how to get this data.

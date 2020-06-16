@@ -1,5 +1,7 @@
 function [x,obj]=SVM_qp(K,y,rho,L,U)
 % Solves the SVM/MU-SVM QP using quadprog
+% Copyright (c) 2019 LG Electronics Inc.
+% SPDX-License-Identifier: Apache-2.0
  
 Aeq = y';
 H = diag(y)*K*diag(y);

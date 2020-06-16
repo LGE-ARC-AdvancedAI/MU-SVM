@@ -18,6 +18,9 @@ function [RPred,optparam,...
 %     RPred2th2,RPredU2th2,Remp2th2,RempU2th2,Finmodel2th2,Finoutput2th2,FinmodelU2th2,FinoutputU2th2,optparam2th2,RvalU2th2,RpredUAll2th2,...
 %     RPred2loo,RPredU2loo,Remp2loo,RempU2loo,Finmodel2loo,Finoutput2loo,FinmodelU2loo,FinoutputU2loo,optparam2loo,RvalU2loo,...
 %     tCV1,tSpan1th2,tloo1,tCV2,tSpan2th2,tloo2]=ISOLET_Table3()
+
+% Copyright (c) 2019 LG Electronics Inc.
+% SPDX-License-Identifier: Apache-2.0
 %--------------------------------------------------------------------------
 
 

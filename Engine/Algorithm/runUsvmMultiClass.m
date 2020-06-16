@@ -25,6 +25,8 @@ function [Rpred,Remp,model,output] =runUsvmMultiClass(trndata,tstdata,univdata,p
 %   Remp = Training error. 
 %   model = Estimated Model 
 %   output = Model's projection values on Train/Test and Universum Data.
+% Copyright (c) 2019 LG Electronics Inc.
+% SPDX-License-Identifier: Apache-2.0
 %--------------------------------------------------------------------------
 
 Rpred=inf;

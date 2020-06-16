@@ -31,6 +31,8 @@ function [RPred,RPredU,Remp,RempU,Finmodel,Finoutput,FinmodelU,FinoutputU,optpar
 % optparam = optimal parameters selected through model selection.
 % Rval = M-SVM cv accuracies for different model params
 % RvalU = MU-SVM's cv accuracy for different model params
+% Copyright (c) 2019 LG Electronics Inc.
+% SPDX-License-Identifier: Apache-2.0
 %--------------------------------------------------------------------------
 
 %INITIALIZE

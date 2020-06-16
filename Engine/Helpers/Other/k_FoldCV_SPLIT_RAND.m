@@ -10,6 +10,8 @@ function [traindat,validation]=k_FoldCV_SPLIT_RAND(data,nsize)
 %       data:       The array of dataset(with the last value as the class labels)
 %       k_fold:     Number of Folds
 %       fold_num: The fold number
+% Copyright (c) 2019 LG Electronics Inc.
+% SPDX-License-Identifier: Apache-2.0
 %--------------------------------------------------------------------------
 
 n_samples=size(data,1);

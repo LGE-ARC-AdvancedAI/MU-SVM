@@ -24,6 +24,9 @@ function [RPred,optparam,...
 %     RPred3th2,RPredU3th2,Remp3th2,RempU3th2,Finmodel3th2,Finoutput3th2,FinmodelU3th2,FinoutputU3th2,optparam3th2,RvalU3th2,RpredUAll3th2,...
 %     RPred3loo,RPredU3loo,Remp3loo,RempU3loo,Finmodel3loo,Finoutput3loo,FinmodelU3loo,FinoutputU3loo,optparam3loo,RvalU3loo,...
 %     tCV1,tSpan1th2,tloo1,tCV2,tSpan2th2,tloo2,tCV3,tSpan3th2,tloo3] = GTSRB_Table3()
+
+% Copyright (c) 2019 LG Electronics Inc.
+% SPDX-License-Identifier: Apache-2.0
 %-------------------------------------------------------------------------- 
 
 expno = 10;   % No of experiments.

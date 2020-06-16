@@ -9,6 +9,8 @@ function [Rloo] = loo_estimateMultiClassBound_USVM(K,y,a,param,N,ftrn)
 % N  := No. of training smaples
 % OUTPUT:
 % Rloo := The l.o.o error estimate.
+% Copyright (c) 2019 LG Electronics Inc.
+% SPDX-License-Identifier: Apache-2.0
 %------------------------------------------
 
 Rloo = N; 

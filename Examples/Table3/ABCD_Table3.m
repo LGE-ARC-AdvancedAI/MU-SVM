@@ -30,6 +30,9 @@ function [RPred,optparam,...
 %     RPred4th2,RPredU4th2,Remp4th2,RempU4th2,Finmodel4th2,Finoutput4th2,FinmodelU4th2,FinoutputU4th2,optparam4th2,RvalU4th2,RpredUAll4th2,...
 %     RPred4loo,RPredU4loo,Remp4loo,RempU4loo,Finmodel4loo,Finoutput4loo,FinmodelU4loo,FinoutputU4loo,optparam4loo,RvalU4loo,...
 %     tCV1,tSpan1th2,tloo1,tCV2,tSpan2th2,tloo2,tCV3,tSpan3th2,tloo3,tCV4,tSpan4th2,tloo4] = ABCD_Table3()
+
+% Copyright (c) 2019 LG Electronics Inc.
+% SPDX-License-Identifier: Apache-2.0
 %-------------------------------------------------------------------------- 
 
 

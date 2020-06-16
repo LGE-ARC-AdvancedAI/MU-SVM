@@ -14,6 +14,9 @@ function [RPred1OVA,RPredU1OVA,Remp1OVA,RempU1OVA,Finmodel1OVA,Finoutput1OVA,Fin
 %     RPred2OVA,RPredU2OVA,Remp2OVA,RempU2OVA,Finmodel2OVA,Finoutput2OVA,FinmodelU2OVA,FinoutputU2OVA,optparam2OVA,...
 %     RPred2OVO,RPredU2OVO,Remp2OVO,RempU2OVO,Finmodel2OVO,Finoutput2OVO,FinmodelU2OVO,FinoutputU2OVO,optparam2OVO,...
 %     RPred2,RPredU2,Remp2,RempU2,Finmodel2,Finoutput2,FinmodelU2,FinoutputU2,optparam2]=ISOLET_Table2()
+
+% Copyright (c) 2019 LG Electronics Inc.
+% SPDX-License-Identifier: Apache-2.0
 %-------------------------------------------------------------------------- 
 
 expno=10;

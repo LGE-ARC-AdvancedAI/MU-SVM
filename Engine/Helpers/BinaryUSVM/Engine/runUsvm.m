@@ -2,6 +2,8 @@ function [Rpred,Remp,model,output] =runUsvm(trndata,tstdata,univdata,param)
 %--------------------------------------------------------------------------
 % This solves the SVM/U-SVM problem. Compare the results with U-SVM package
 % https://github.com/fabiansinz/UniverSVM
+% Copyright (c) 2019 LG Electronics Inc.
+% SPDX-License-Identifier: Apache-2.0
 %--------------------------------------------------------------------------
 
 model=[];

@@ -28,6 +28,8 @@ function [RPred,RPredU,Remp,RempU,Finmodel,Finoutput,FinmodelU,FinoutputU,optpar
 % FinmodelU = MU-SVM optimal model
 % FinoutputU = MU-SVM predictions on the training/test/univ data using the optimal model.
 % optparam = optimal parameters selected through model selection.
+% Copyright (c) 2019 LG Electronics Inc.
+% SPDX-License-Identifier: Apache-2.0
 %--------------------------------------------------------------------------
 
 param.t='linear';

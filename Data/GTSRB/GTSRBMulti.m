@@ -1,4 +1,6 @@
 function [trndata,valdata,tstdata,univdata]=GTSRBMulti(ntrn,nval,ntst,trnID,nuniv,uID)
+% Copyright (c) 2019 LG Electronics Inc.
+% SPDX-License-Identifier: Apache-2.0
 
 load raw_dataALL  %To get this data read the README.TXT in this folder.
 trndata.X=[]; trndata.y=[];

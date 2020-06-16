@@ -1,6 +1,8 @@
 function [dataset]= libsvm2mat(filename)
 %AUTHOR:- SAUPTIK DHAR
 %This will convert the LIBSVM format to the .mat file.
+% Copyright (c) 2019 LG Electronics Inc.
+% SPDX-License-Identifier: Apache-2.0
 dataset=struct;
 %INITIALIZE
 for i=1:78

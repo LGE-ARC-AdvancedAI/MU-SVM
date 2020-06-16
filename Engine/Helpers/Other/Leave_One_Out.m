@@ -9,6 +9,8 @@ function [traindata,valid]=Leave_One_Out(data,samp_num)
 %   INPUT
 %       data:       The array of dataset(with the last value as the class labels)
 %      
+% Copyright (c) 2019 LG Electronics Inc.
+% SPDX-License-Identifier: Apache-2.0
 %--------------------------------------------------------------------------
 
 data = [data.X,data.y];

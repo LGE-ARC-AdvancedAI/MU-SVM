@@ -20,6 +20,9 @@ function [RPred1OVA,RPredU1OVA,Remp1OVA,RempU1OVA,Finmodel1OVA,Finoutput1OVA,Fin
 %     RPred3OVA,RPredU3OVA,Remp3OVA,RempU3OVA,Finmodel3OVA,Finoutput3OVA,FinmodelU3OVA,FinoutputU3OVA,optparam3OVA,...
 %     RPred3OVO,RPredU3OVO,Remp3OVO,RempU3OVO,Finmodel3OVO,Finoutput3OVO,FinmodelU3OVO,FinoutputU3OVO,optparam3OVO,...
 %     RPred3,RPredU3,Remp3,RempU3,Finmodel3,Finoutput3,FinmodelU3,FinoutputU3,optparam3]=GTSRB_Table2_withVALDATA()
+
+% Copyright (c) 2019 LG Electronics Inc.
+% SPDX-License-Identifier: Apache-2.0
 %-------------------------------------------------------------------------- 
 
 expno=10;

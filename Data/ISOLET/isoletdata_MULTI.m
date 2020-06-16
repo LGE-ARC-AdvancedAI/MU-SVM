@@ -1,4 +1,7 @@
 function [trndata,valdata,tstdata,univdata]=isoletdata_MULTI(trncls,ntrn,nval,ntst,univcls,nuniv)
+% Copyright (c) 2019 LG Electronics Inc.
+% SPDX-License-Identifier: Apache-2.0
+
 % semeiondata(trnsize,valsize,univtype,univsize)
 % This function is used to process the isolet data in the reqd format
 % cls1/clas2= albhabet no.s

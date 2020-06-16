@@ -34,6 +34,9 @@ function [RPred,RPredU,Remp,RempU,Finmodel,Finoutput,FinmodelU,FinoutputU,optpar
 % RvalU = MU-SVM Validation Accuracies
 % RpredAll = M-SVM Test Accuracies for all model parameters.
 % RpredUAll = MU-SVM Test Accuracies for all model parameters.
+
+% Copyright (c) 2019 LG Electronics Inc.
+% SPDX-License-Identifier: Apache-2.0
 %--------------------------------------------------------------------------
 
 %INITIALIZE

@@ -1,5 +1,7 @@
 function [model,ind1,ind2]=calculateb(a,L,U,K,y,rho,model)
 % Calculate the bias parameter of SVM/U-SVM.
+% Copyright (c) 2019 LG Electronics Inc.
+% SPDX-License-Identifier: Apache-2.0
 
 tolL = 1e-6;
 tolU = 1e-6;

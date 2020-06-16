@@ -9,6 +9,8 @@ function [R,yest] = predictMUSVM(y,f,J)
 % OUTPUT:
 %   R = balanced test error
 %   yest =  sample's predicted class. 
+% Copyright (c) 2019 LG Electronics Inc.
+% SPDX-License-Identifier: Apache-2.0
 %--------------------------------------------------------------------------
 
 yest=zeros(size(y,1),1);

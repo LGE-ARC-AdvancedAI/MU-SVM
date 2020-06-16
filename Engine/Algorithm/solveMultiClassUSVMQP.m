@@ -5,6 +5,8 @@ function [a]=solveMultiClassUSVMQP(K,y,N,param)
 % 1. CVX : http://cvxr.com/cvx/ 
 % 2. MSVMpack:  https://homepages.loria.fr/FLauer/MSVMpack/MSVMpack.html
 % contact the authors.
+% Copyright (c) 2019 LG Electronics Inc.
+% SPDX-License-Identifier: Apache-2.0
 %--------------------------------------------------------------------------
 
 J =max(y);
